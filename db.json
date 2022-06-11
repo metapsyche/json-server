@@ -20,5 +20,27 @@
             "thumbnail": "https://ak.picdn.net/shutterstock/videos/1088444883/thumb/11.jpg", 
             "path": "https://ak.picdn.net/shutterstock/videos/1088444883/preview/stock-footage-nft-virtual-city-real-estate-digital-land-property-blockchain-metaverse-platform.mp4"
         }
-    ]
+    ],
+    "audioData": [
+        { 
+            "id": "audio1",
+            "type": "audio",
+            "title": "Heartbeats",
+            "length": "3 minutes",
+            "creator": "masher1", 
+            "tags": ["rock"], 
+            "thumbnail": "https://cdn.freesound.org/displays/632/632411_1648170_wave_L.png",
+            "path": "https://www.freesoundslibrary.com/wp-content/uploads/2017/10/heartbeat-sound-effect.mp3"
+        },
+        { 
+            "id": "audio2",
+            "type": "audio",
+            "title": "Birds Chirping",
+            "length": "2 minutes",
+            "creator": "OGmasher", 
+            "tags": ["nature"], 
+            "thumbnail": "https://www.freesoundslibrary.com/wp-content/uploads/2018/02/birds-chirping-sound-effect.jpg",
+            "path": "https://www.freesoundslibrary.com/wp-content/uploads/2018/02/birds-chirping-sound-effect.mp3"
+        }
+    ]   
 }
