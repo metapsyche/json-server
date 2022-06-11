@@ -1,0 +1,24 @@
+{
+    "videoData": [
+        { 
+            "id": "vid1",
+            "type": "video", 
+            "title": "Tech City", 
+            "length": "8 sec", 
+            "creator": "masher1", 
+            "tags": [ "scifi","tech"],
+            "thumbnail": "https://ak.picdn.net/shutterstock/videos/1066836493/thumb/9.jpg", 
+            "path": "https://ak.picdn.net/shutterstock/videos/1066836493/preview/stock-footage-big-city-businessman-uses-smartphone-stands-on-crowded-street-e-commerce-visualization-of.webm"
+        },
+        { 
+            "id": "vid2",
+            "type": "video", 
+            "title": "Test Video 2", 
+            "length": "10 sec", 
+            "creator": "OGmasher", 
+            "tags": [ "scifi","tech"],
+            "thumbnail": "https://ak.picdn.net/shutterstock/videos/1088444883/thumb/11.jpg", 
+            "path": "https://ak.picdn.net/shutterstock/videos/1088444883/preview/stock-footage-nft-virtual-city-real-estate-digital-land-property-blockchain-metaverse-platform.mp4"
+        }
+    ]
+}
